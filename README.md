@@ -77,7 +77,7 @@ Collaboration · Communication · Leadership · Storytelling · Time Management
     </td>
     <td width="50%">
       <a href="https://github.com/Sanjeevani200303/ALGO_TRADE_SYS">
-        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/algosys.jpeg" alt="S&P 500 Algorithmic Trading Project" width="100%" style="border-radius: 10px;">
+        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/sugarfernn%20%E2%9D%A5.jpeg?raw=true" alt="S&P 500 Algorithmic Trading Project" width="100%" style="border-radius: 10px;">
       </a>
       <p align="center"><b>S&P 500 Algorithmic Trading System (In Progress)</b></p>
       <p align="justify">
