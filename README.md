@@ -1,5 +1,4 @@
 
-
 <!-- 🩷 Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/f8/22/2d/f8222d4f0c4a6c4d6b61a021e4d6b7b1.gif" width="100%" alt="black pink minimalist banner">
@@ -12,46 +11,89 @@
 
 ---
 
-### 🌷 About Me  
+## 🌷 About Me  
 
-I’m **Sanjeevani Pandit**, a final-year **Computer Science** student with a deep curiosity for how **data, business, and technology** intertwine to create meaningful outcomes.  
+<p align="justify">
+  <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/mio-typing.gif" align="right" width="230" style="margin-left: 20px; border-radius: 12px;">
+  I’m <b>Sanjeevani Pandit</b>, a final-year <b>Computer Science</b> student with a deep curiosity for how <b>data, business, and technology</b> work together to create meaningful outcomes.  
+  
+  I’ve worked on data and business-focused projects, analyzing performance metrics, building dashboards, and translating data into strategic narratives that drive better decisions.  
+  
+  My work includes <b>analyzing datasets from 30+ organizations</b>, leading a <b>30-member editorial and finance team</b>, and coordinating <b>8+ technical events</b> — improving engagement and efficiency through structured, data-informed initiatives.  
+  
+  Beyond analytics, I’m drawn to <b>literature, philosophy, and theology</b> — the places where logic meets emotion. I believe creativity gives structure its soul — whether in data, design, or words.
+</p>
 
-I’ve worked across **data and business-focused projects**, analyzing performance metrics, building interactive dashboards, and transforming data into strategic insights that drive decisions.  
-
-My experience spans **ESG analysis for 30+ organizations**, **leading a 30-member editorial & finance team**, and **coordinating 8+ technical events**, improving engagement through structured, data-informed strategies.  
-
-These experiences strengthened my skills in **problem-solving, communication, collaboration, and strategic thinking**, while nurturing my interest in roles that bring together **analytics, storytelling, and impact**.  
-
-Beyond analytics, I’m drawn to **literature, philosophy, theology**, and the kind of storytelling that reveals how people think and feel. I believe creativity gives structure its soul — whether in data, words, or design.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/5f/3f/fb5f3f2b68a3c9b321c5df144d9e8f6e.gif" width="180px">
+</p>
 
 ---
 
-### 🪞 Core Skills  
+## 🪞 Core Skills  
 
-💻 **Technical & Analytical**  
-Python · SQL · Power BI · Excel · Tableau · Data Visualization · Pandas · NumPy  
+💻 **Technical Skills**  
+Java · Python · SQL · Power BI · Tableau · Pandas · NumPy · Excel (Advanced)  
 
-📊 **Business & Process**  
-Business Analysis · Process Mapping · BRD / FRD Documentation  
+📊 **Analytical & Business Skills**  
+Exploratory Data Analysis (EDA) · Data Visualization · Business Analysis · Process Mapping · Documentation (BRD, FRD, Use Cases, User Stories)  
+
+🧩 **Methodologies & Practices**  
+Agile · Scrum · Waterfall · Version Control (Git)  
 
 💬 **Soft Skills**  
-Communication · Storytelling · Leadership · Collaboration  
+Collaboration · Communication · Leadership · Storytelling · Time Management  
 
 ---
 
-### 💫 Tech Stack  
+## 💫 Tools & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,vscode,linux" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,postgresql" />
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,postgresql,excel" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/5f/3f/fb5f3f2b68a3c9b321c5df144d9e8f6e.gif" width="180px">
 </p>
 
 ---
 
-### 🌸 GitHub Overview  
+## 🌸 Featured Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Sanjeevani200303/ESG-DATA-ANALYSIS-WITH-DASHBOARD-PR/tree/main">
+        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/sugarfernn.jpeg" alt="ESG Dashboard Project" width="100%" style="border-radius: 10px;">
+      </a>
+      <p align="center"><b>ESG Score Analysis Dashboard System</b></p>
+      <p align="justify">
+        Conducted ESG analysis for 30+ multinational companies, standardizing and visualizing KPIs across Environmental, Social, and Governance pillars. Created interactive dashboards in Excel and derived actionable sustainability insights.
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Sanjeevani200303/ALGO_TRADE_SYS">
+        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/algosys.jpeg" alt="S&P 500 Algorithmic Trading Project" width="100%" style="border-radius: 10px;">
+      </a>
+      <p align="center"><b>S&P 500 Algorithmic Trading System (In Progress)</b></p>
+      <p align="justify">
+        Developed a trading strategy combining momentum and valuation metrics for S&P 500 stocks. Performed backtesting and evaluated portfolio performance using Sharpe ratio and drawdown analysis.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/5f/3f/fb5f3f2b68a3c9b321c5df144d9e8f6e.gif" width="180px">
+</p>
+
+---
+
+## 📊 GitHub Overview  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevani200303&show_icons=true&title_color=ff99cc&icon_color=ff99cc&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160px" />
@@ -60,7 +102,7 @@ Communication · Storytelling · Leadership · Collaboration
 
 ---
 
-### 🌺 Beyond Work  
+## 🌺 Beyond Work  
 
 When I’m not analyzing or creating, I’m usually:  
 📚 reading literature, history, or theology  
@@ -69,7 +111,7 @@ When I’m not analyzing or creating, I’m usually:
 
 ---
 
-### 💕 Let’s Connect  
+## 💕 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeevani-pandit-009a8226a/">
