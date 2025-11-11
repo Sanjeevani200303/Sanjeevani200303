@@ -1,60 +1,89 @@
-# 🌸 Sanjeevani Pandit  
 
-> _“Between logic and lyricism, I build — and I feel.”_
 
-Hey there 👋  
-I’m **Sanjeevani**, a developer, thinker, and lover of all things intricate — whether it’s a line of code, a brushstroke of art, or the curve of a tragic narrative.  
-I believe creativity isn’t a separate world from technology — it’s what gives it soul.  
+<!-- 🩷 Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f8/22/2d/f8222d4f0c4a6c4d6b61a021e4d6b7b1.gif" width="100%" alt="black pink minimalist banner">
+</p>
 
----
-
-## 🧠 What I Do  
-
-💻 **Developer at heart** — exploring the harmony between systems and stories.  
-🌐 Currently working on:
-- **Computer Vision & Deep Learning** — building intelligent systems with YOLOv8.  
-- **Data Analysis** — learning how to make data tell its own story, beautifully.  
-- **Java & DSA** — strengthening core logic to sculpt efficient, elegant solutions.  
-
-✨ I love creating things that blend **precision** with **emotion** — like machines that *see*, systems that *learn*, and designs that *speak*.  
+<h1 align="center">🌸 Sanjeevani Pandit🌸 </h1>
+<p align="center">
+  <em>Data • Business • Technology — with a touch of elegance</em>
+</p>
 
 ---
 
-## 🪞 A Little About Me  
+### 🌷 About Me  
 
-🎨 A lover of **fashion**, **psychological thrillers**, **romance**, and **tragedy** — the genres that remind me that creation and emotion are inseparable.  
-📚 Fascinated by **sociology**, **theology**, and **psychology**, I often find myself tracing how humans think, feel, and believe.  
-💭 My favorite kind of work? Anything that demands **intellect, intuition, and a little heartbreak** — the perfect recipe for art or code.
+I’m **Sanjeevani Pandit**, a final-year **Computer Science** student with a deep curiosity for how **data, business, and technology** intertwine to create meaningful outcomes.  
 
----
+I’ve worked across **data and business-focused projects**, analyzing performance metrics, building interactive dashboards, and transforming data into strategic insights that drive decisions.  
 
-## 🧩 Tech Stack  
+My experience spans **ESG analysis for 30+ organizations**, **leading a 30-member editorial & finance team**, and **coordinating 8+ technical events**, improving engagement through structured, data-informed strategies.  
 
-| Domain | Tools & Languages |
-|--------|-------------------|
-| **Languages** | Python 🐍 · Java ☕ · C++ ⚙️ |
-| **AI/ML** | YOLOv8 · OpenCV · NumPy · Pandas |
-| **Data Analysis** | Matplotlib · Seaborn · Excel · PowerBI |
-| **Web & Tools** | HTML · CSS · JavaScript · Linux · Git |
+These experiences strengthened my skills in **problem-solving, communication, collaboration, and strategic thinking**, while nurturing my interest in roles that bring together **analytics, storytelling, and impact**.  
+
+Beyond analytics, I’m drawn to **literature, philosophy, theology**, and the kind of storytelling that reveals how people think and feel. I believe creativity gives structure its soul — whether in data, words, or design.
 
 ---
 
-## 🌷 Beyond the Code  
+### 🪞 Core Skills  
 
-When I’m not coding, I’m usually:  
-- sketching aesthetics and stories from everyday life 🖋️  
-- exploring philosophy & art  
-- or curating playlists that sound like rainy evenings and distant dreams ☁️  
+💻 **Technical & Analytical**  
+Python · SQL · Power BI · Excel · Tableau · Data Visualization · Pandas · NumPy  
 
----
+📊 **Business & Process**  
+Business Analysis · Process Mapping · BRD / FRD Documentation  
 
-## 📫 Let’s Connect  
-
-💌 [LinkedIn](#) · [GitHub](#) · [Portfolio](#)  
-
-> _“To me, creation is both rebellion and prayer —  
-a way to understand the world, and to soften it.”_  
+💬 **Soft Skills**  
+Communication · Storytelling · Leadership · Collaboration  
 
 ---
 
-⭐ _“Code beautifully, live curiously.”_  
+### 💫 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,linux,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,postgresql" />
+</p>
+
+---
+
+### 🌸 GitHub Overview  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevani200303&show_icons=true&title_color=ff99cc&icon_color=ff99cc&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjeevani200303&theme=black-ice&ring=ff99cc&fire=ff99cc&currStreakLabel=ff99cc&background=0d1117&hide_border=true" height="160px" />
+</p>
+
+---
+
+### 🌺 Beyond Work  
+
+When I’m not analyzing or creating, I’m usually:  
+📚 reading literature, history, or theology  
+☕ writing reflections or creative essays  
+🩰 curating minimalist aesthetics and calm moments  
+
+---
+
+### 💕 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeevani-pandit-009a8226a/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff99cc?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanjeevani200303">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=ff99cc" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/5f/3f/fb5f3f2b68a3c9b321c5df144d9e8f6e.gif" width="250px" alt="soft pink sparkles">
+</p>
+
+<p align="center"><em>“Curiosity with grace — that’s how I learn, build, and create.”</em></p>
