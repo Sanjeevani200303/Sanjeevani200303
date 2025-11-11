@@ -14,7 +14,7 @@
 ## 🌷 About Me  
 
 <p align="justify">
-  <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/mio-typing.gif" align="right" width="230" style="margin-left: 20px; border-radius: 12px;">
+  <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/mio-typing_gif%20(500%C3%97501).gif?raw=true" align="right" width="230" style="margin-left: 20px; border-radius: 12px;">
   I’m <b>Sanjeevani Pandit</b>, a final-year <b>Computer Science</b> student with a deep curiosity for how <b>data, business, and technology</b> work together to create meaningful outcomes.  
   
   I’ve worked on data and business-focused projects, analyzing performance metrics, building dashboards, and translating data into strategic narratives that drive better decisions.  
