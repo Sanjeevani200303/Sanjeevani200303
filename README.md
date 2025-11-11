@@ -49,7 +49,7 @@ Collaboration · Communication · Leadership · Storytelling · Time Management
 ## 💫 Tools & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,vscode" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ When I’m not analyzing or creating, I’m usually:
 
 ---
 
-## 💕 Let’s Connect  
+## 🌸  Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeevani-pandit-009a8226a/">
