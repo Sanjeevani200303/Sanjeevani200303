@@ -68,7 +68,7 @@ Collaboration · Communication · Leadership · Storytelling · Time Management
   <tr>
     <td width="50%">
       <a href="https://github.com/Sanjeevani200303/ESG-DATA-ANALYSIS-WITH-DASHBOARD-PR/tree/main">
-        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/sugarfernn.jpeg" alt="ESG Dashboard Project" width="100%" style="border-radius: 10px;">
+        <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/(%E0%B9%91%E2%80%A2%E1%8E%91_%E0%B9%91)%EF%BD%B0%E2%98%86.jpeg?raw=true" alt="ESG Dashboard Project" width="100%" style="border-radius: 10px;">
       </a>
       <p align="center"><b>ESG Score Analysis Dashboard System</b></p>
       <p align="justify">
