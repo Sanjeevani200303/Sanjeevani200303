@@ -11,7 +11,7 @@
 
 ---
 
-## 🌷 About Me  
+## 🌷 About Me 🌷 
 
 <p align="justify">
   <img src="https://github.com/Sanjeevani200303/Sanjeevani200303/blob/main/mio-typing_gif%20(500%C3%97501).gif?raw=true" align="right" width="230" style="margin-left: 20px; border-radius: 12px;">
